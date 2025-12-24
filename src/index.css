@@ -1,0 +1,92 @@
+body {
+  margin : 0px
+}
+
+header {
+  background-color: #FF5A5A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.globe-icon {
+  width: 24px;
+  padding: 16px 8px
+}
+
+.title-span {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #FFFFFF;
+}
+
+.entry {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.entry-image {
+  width: 200px;
+  height: 225px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.marker-icon {
+  width: 10px;
+  height: 15px;
+  margin-left: 20px;
+}
+
+.entry-country {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+  margin-left: 5px;
+}
+
+a {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #918E9B;
+  margin-left: 15px;
+}
+
+.entry-name {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+.entry-date {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+.entry-detail {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 20px;
+  width: 650px;
+  height: 20px;
+}
+
+
+
